@@ -1,0 +1,20 @@
+# generated figures
+Figure_*.png
+Figure_*.pdf
+*.ps
+gmt_layers/
+
+# large data / model intermediates (archived externally, see data/README.md)
+data/*.tif
+data/*.csv
+data/*.npy
+data/*.json
+data/sultan_landcover_4epochs/
+
+# python / OS / R
+__pycache__/
+*.pyc
+.DS_Store
+.Rhistory
+.RData
+.ipynb_checkpoints/
