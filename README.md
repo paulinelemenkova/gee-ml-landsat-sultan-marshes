@@ -105,8 +105,7 @@ Each script writes its `Figure_*.png` / `.pdf` to the current directory.
 ## Data availability
 
 The Landsat archive and ancillary layers are open. Derived rasters and tables
-are archived on Zenodo: **https://doi.org/10.5281/zenodo.XXXXXXX** *(replace with
-your DOI)*.
+are archived on Zenodo: **https://doi.org/10.5281/zenodo.XXXXXXX**.
 
 ## Citation
 

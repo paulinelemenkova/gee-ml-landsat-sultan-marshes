@@ -4,7 +4,7 @@ The scripts read their inputs from this folder. The raster/tabular inputs are
 **not stored in the repository** (they are large); they are produced by the
 Google Earth Engine scripts in [`../gee`](../gee) and archived on Zenodo.
 
-> **Archive:** https://doi.org/10.5281/zenodo.XXXXXXX  *(replace with your DOI)*
+> **Archive:** https://doi.org/10.5281/zenodo.XXXXXXX
 
 Download the archive and unzip it here so the folder looks like:
 
